@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: file://${user.home}/workspace/config-cartao
+          uri: https://github.com/robsonrigatto/config-cartoes
